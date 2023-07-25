@@ -1,4 +1,4 @@
-# Rumbling Nodejs
+# Template Nodejs
 
 # Environment vars
 This project uses the following environment variables:
